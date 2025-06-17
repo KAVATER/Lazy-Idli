@@ -1,4 +1,4 @@
-# STM32-F401Re FreeRTOS Task Management Demo
+# STM32-F4XX FreeRTOS Task Management Demo
 
 ## Project Overview
 This project demonstrates dynamic task management using FreeRTOS on the STM32-F401Re microcontroller. The system implements real-time task priority control and deletion based on queue data values, showcasing advanced RTOS concepts for embedded applications.
